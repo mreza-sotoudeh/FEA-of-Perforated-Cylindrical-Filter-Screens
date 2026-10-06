@@ -67,7 +67,6 @@ The `Images/` directory contains the stress contour plots obtained from SolidWor
 - `Models/` — SolidWorks part/assembly files of the two filter geometries (to be added)
 - `Images/` — Stress contour plots from SolidWorks Simulation
 - `Report/The_Project.docx` — Full internship project report (Persian)
-- `README.md` — This file
 
 ## Requirements
 
