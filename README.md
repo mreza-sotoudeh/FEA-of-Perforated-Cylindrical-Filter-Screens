@@ -65,9 +65,9 @@ The `Images/` directory contains the stress contour plots obtained from SolidWor
 ## Repository Contents
 
 - `Models/` — SolidWorks part/assembly files of the two filter geometries (to be added)
-- `Images/` — Stress contour plots from SolidWorks Simulation
+- [Images](Images/) — Stress contour plots from SolidWorks Simulation
 - [View the English project report](Reports/Filter_FEA_English.pdf)
-- [View the Persian project report](Reports/Filter_FEA_Persian.pdf
+- [View the Persian project report](Reports/Filter_FEA_Persian.pdf)
 
 ## Requirements
 
