@@ -76,7 +76,7 @@ The `Diagrams/` directory contains the stress contour plots obtained from SolidW
 
 ## Internship
 
-**Company:** ماشین‌سازی اندیشه‌شمال (Andisheh Shomal Machinery)  
+**Company:** Andisheh Shomal Machinery
 **Period:** Summer 1405 (2026)  
 **Supervisors:**  
 - Eng. Hosseinpour  
