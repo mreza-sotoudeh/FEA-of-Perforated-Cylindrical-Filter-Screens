@@ -57,7 +57,7 @@ Both designs remain well below the typical yield strength of galvanized carbon s
 
 ## Results
 
-The `Diagrams/` directory contains the stress contour plots obtained from SolidWorks Simulation:
+The `Images/` directory contains the stress contour plots obtained from SolidWorks Simulation:
 
 - von Mises stress distribution – Case 1 (Ø3 mm / Pitch 5 mm)
 - von Mises stress distribution – Case 2 (Ø5 mm / Pitch 8 mm)
@@ -65,7 +65,7 @@ The `Diagrams/` directory contains the stress contour plots obtained from SolidW
 ## Repository Contents
 
 - `Models/` — SolidWorks part/assembly files of the two filter geometries (to be added)
-- `Diagrams/` — Stress contour plots from SolidWorks Simulation
+- `Images/` — Stress contour plots from SolidWorks Simulation
 - `Report/The_Project.docx` — Full internship project report (Persian)
 - `README.md` — This file
 
