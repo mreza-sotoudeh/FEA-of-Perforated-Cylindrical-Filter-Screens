@@ -55,12 +55,19 @@ Main observations:
 
 Both designs remain well below the typical yield strength of galvanized carbon steel, but Case 1 exhibits a more favorable stress distribution under the examined working pressure.
 
-## Results
+## Renders
 
-The `Images/` directory contains the stress contour plots obtained from SolidWorks Simulation:
+## CAD Renderings
 
-- von Mises stress distribution – Case 1 (Ø3 mm / Pitch 5 mm)
-- von Mises stress distribution – Case 2 (Ø5 mm / Pitch 8 mm)
+<p align="center">
+  <img src="Images/case1Render.png" width="45%">
+  <img src="Images/case1FEA.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Images/case2Render.png" width="45%">
+  <img src="Images/case2FEA.png" width="45%">
+</p>
 
 ## Repository Contents
 
